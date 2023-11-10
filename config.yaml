@@ -1,15 +1,15 @@
-test: False
+use_eeg: True
 
 Training1_trials_con_con_con: 0
 Training1_trials_inc1_inc1_inc1: 0
 Training1_trials_inc1_inc2_inc1: 0
 Training1_trials_inc1_inc2_inc3: 0
-Training1_trials_neu_neu_neu: 10
+Training1_trials_neu_neu_neu: 0
 
-Training2_trials_con_con_con: 15
-Training2_trials_inc1_inc1_inc1: 5
-Training2_trials_inc1_inc2_inc1: 5
-Training2_trials_inc1_inc2_inc3: 5
+Training2_trials_con_con_con: 0
+Training2_trials_inc1_inc1_inc1: 0
+Training2_trials_inc1_inc2_inc1: 0
+Training2_trials_inc1_inc2_inc3: 0
 Training2_trials_neu_neu_neu: 0
 
 Training_Resp_time: 4
