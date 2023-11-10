@@ -1,4 +1,4 @@
-use_eeg: False
+use_eeg: True
 test: False
 
 Training1_trials_con_con_con: 0
